@@ -155,7 +155,7 @@ println(add3(4))             // 7
 
 타입하면 이 그림. 타입은 크게 `Any`를 기반으로 value(primitive) 타입인 `AnyVal`과 reference 타입인 `AnyRef`로 나뉘고, `AnyRef`같은 경우는 `Null` 을 subtype 으로 가지며 이를 포함한 모든 타입의 subtype 으로는 `Nothing` 이 있음. 그런데...
 
-![100%](https://docs.scala-lang.org/tutorials/tour/unified-types-diagram.svg)
+![100%](https://i.stack.imgur.com/i19XD.png)
 
 ---
 
