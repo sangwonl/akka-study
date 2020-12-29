@@ -1,6 +1,5 @@
 <!-- $theme: default -->
 
-# ![50%](http://www.godatafy.com/wp-content/uploads/2015/11/scala.png)
 # WTF Series for understanding Scala
 ##### 2018. 05. 26
 ###### Sangwon Lee
